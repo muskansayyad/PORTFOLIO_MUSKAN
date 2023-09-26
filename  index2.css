@@ -1,0 +1,18 @@
+*{
+	box-sizing:border-box;
+	margin:0px;
+	font-family:sans-serif;
+}
+.navmenu{
+	font-size:20px;
+	color:royalblue;
+	font-weight:bolder;
+
+}
+.logo
+{
+	font-size:25px;
+	font-family:elephant;
+	font-varient:small_caps;
+	color:orangered;
+}
